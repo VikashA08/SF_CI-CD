@@ -1,0 +1,3 @@
+Create or replace schema landing;
+Create or replace schema processed;
+Create or replace schema consumption;
